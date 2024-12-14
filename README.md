@@ -17,10 +17,10 @@ This program simulates memory allocation and deallocation using a buddy memory a
 
 ## How to Run
 1. Ensure you have Python installed on your system.
-2. Copy the code into a file named `memory_manager.py`.
+2. Copy the code file `buddysystem.py`.
 3. Run the program using:
    ```bash
-   python memory_manager.py
+   python buddysystem.py
    ```
 4. Follow the on-screen prompts to allocate or deallocate memory.
 
