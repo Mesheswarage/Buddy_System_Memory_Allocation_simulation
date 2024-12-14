@@ -1,6 +1,6 @@
 # Memory Management Program
 
-This program simulates memory allocation and deallocation using a buddy memory allocation system. It dynamically allocates and merges memory blocks based on the nearest power of 2 to optimize memory usage. The program also includes a user interface to interact with the system.
+This program simulates memory allocation and deallocation using a buddy memory allocation system. It dynamically allocates and merges memory blocks based on the nearest power of 2 to optimize memory usage.
 
 ## Features
 - **Memory Initialization**: Start with a specified total memory size.
